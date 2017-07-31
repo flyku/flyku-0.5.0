@@ -1,0 +1,50 @@
+{
+  "name": "flyku",
+  "title": "flyku",
+  "description": "Flyku is an automated, modular development framework. \r The goal is to reduce duplication of work in the front-end development process,  \r so that you pay more attention to the program itself.",
+  "version": "0.5.0",
+  "homepage": "",
+  "engines": {
+    "node": ">=6.2.0"
+  },
+  "author": {
+    "name": "flyku"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flyku/flyku.git"
+  },
+  "bugs": {
+    "url": "XXX"
+  },
+  "bin": {
+    "flyku": "./bin/flyku"
+  },
+  "dependencies": {
+    "JSONSelect": "latest",
+    "amdefine": "latest",
+    "connect": "latest",
+    "consoleplusplus": "latest",
+    "flyku-include": "latest",
+    "flyku-manage": "0.0.3",
+    "jspacker": "latest",
+    "jstm": "latest",
+    "mocha": "latest",
+    "optimist": "latest",
+    "seajs": "latest",
+    "serve-static": "latest",
+    "shelljs": "latest",
+    "uglify-js": "2.6.4",
+    "watch": "latest",
+    "weinre": "latest"
+  },
+  "keywords": [
+    "module",
+    "package",
+    "nodejs",
+    "模块化开发",
+    "自动打包"
+  ],
+  "_from": "flyku@0.5.0",
+  "_resolved": "http://registry.npm.taobao.org/flyku/download/flyku-0.5.0.tgz"
+}
